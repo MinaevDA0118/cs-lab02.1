@@ -20,5 +20,14 @@ int main()
          {
              cout << "Max: " << b;
          }
+
+         if ( a < b)
+         {
+             cout << "Min: " << a;
+         }
+         else
+         {
+             cout << "Min: " << b;
+         }
     return 0;
 }
